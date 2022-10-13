@@ -1,8 +1,7 @@
 body, html {
   margin: 0;
-  height:100%; 
-  overflow:hidden;
-  background-color: rgb(58, 58, 58);
+  /* height:auto; */
+  /* background-color: rgb(58, 58, 58); */
 }
 
 .main-wrapper {
@@ -17,6 +16,7 @@ body, html {
 
 .main {
   padding-top: 3rem;
+  height:auto 
 }
 
 .header {
